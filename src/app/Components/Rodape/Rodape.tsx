@@ -40,13 +40,8 @@ const Rodape = () => {
             </div>  
             <div className="tudo_rodape_baixo">
                 <div className="logo_rodape">
-                    <a href="" className="logo_vapt_rodape"><img src='https://res.cloudinary.com/dr0nki74e/image/upload/f_auto,q_auto/v1/vapt-vupt/logos_footer/jixtx5raeuaea9khqd0e' className="logo_nav" alt="Logo do Vapt-Vupt - menu" title="Logo do Vapt-Vupt - menu" role="link" aria-label="Ir para o começo da página" tabIndex={5}></img></a>
-                    <svg width="4" height="32" className="linha_divide" viewBox="0 0 4 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2 2L2 30" stroke="#00113A" strokeWidth="3" strokeLinecap="round"/>
-                    </svg>                        
-                    <a href="https://www.portoseguro.com.br/" className="logo_porto_rodape" role="link" aria-label="Ir para o site da Porto Seguro"><img src='https://res.cloudinary.com/dr0nki74e/image/upload/f_auto,q_auto/v1/vapt-vupt/logos_footer/ismg7ulfzgdsomlum9ml' className="logo_nav" alt="Logo da Porto Seguro - menu" title="Logo da Porto Seguro - menu" tabIndex={5}></img></a>
                 </div>
-                <a href="" className="lerami" role="link" aria-label="Ir para a página da LERAMI" tabIndex={5}>© 2024 LERAMI</a>
+                <a href="" className="lerami" role="link" aria-label="Ir para a página da LERAMI" tabIndex={5}>© 2024 FRIENDLY</a>
             </div>
         </footer>
         </>
