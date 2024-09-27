@@ -13,26 +13,26 @@ const Rodape = () => {
                     <div className="links">
                         <div className="sitemap">
                             <p className="sitemap_titu">Empresa</p>
-                            <a href="https://vapt-vupt.vercel.app/#solucao" className="anchor2 menu-item2" role="link" aria-label="Ir para a seção 'Sobre'" tabIndex={5}>Sobre</a>
-                            <a href="https://vapt-vupt.vercel.app/#section1" className="anchor2 menu-item2" role="link" aria-label="Ir para a seção 'Vantagens'" tabIndex={5}>Vantagens</a>
-                            <a href="https://vapt-vupt.vercel.app/#video_pitch" className="anchor2 menu-item2" role="link" aria-label="Ir para a seção 'Vídeo Pitch'" tabIndex={5}>Vídeo Pitch</a>
-                            <a href="https://vapt-vupt.vercel.app/#equipe" className="anchor2 menu-item2" role="link" aria-label="Ir para a seção 'Equipe'" tabIndex={5}>Equipe</a>
+                            <a href="" className="anchor2 menu-item2" role="link" aria-label="Ir para a seção 'Sobre'" tabIndex={5}>Sobre</a>
+                            <a href="" className="anchor2 menu-item2" role="link" aria-label="Ir para a seção 'Vantagens'" tabIndex={5}>Vantagens</a>
+                            <a href="" className="anchor2 menu-item2" role="link" aria-label="Ir para a seção 'Vídeo Pitch'" tabIndex={5}>Vídeo Pitch</a>
+                            <a href="" className="anchor2 menu-item2" role="link" aria-label="Ir para a seção 'Equipe'" tabIndex={5}>Equipe</a>
                         </div>
                         <div className="sitemap4">
                             <p className="sitemap_titu">Links</p>
                             <a href="" className="anchor2 menu-item2" role="link" aria-label="Ir para o perfil do Instagram de @Vapt-Vupt" tabIndex={5}>Instagram</a>
-                            <a href="https://youtu.be/ZoeoYKEFKxc?si=5JMdihVcnd5PidSc" className="anchor2 menu-item2" role="link" aria-label="Ir para o canal do Youtube de @Vapt-Vupt" tabIndex={5}>Youtube</a>
-                            <a href="https://github.com/VaptVupt2024/Vapt-Vupt-Challenge" className="anchor2 menu-item2" role="link" aria-label="Ir para o perfil do GitHub de @Vapt-Vupt" tabIndex={5}>GitHub</a>
+                            <a href="" className="anchor2 menu-item2" role="link" aria-label="Ir para o canal do Youtube de @Vapt-Vupt" tabIndex={5}>Youtube</a>
+                            <a href="" className="anchor2 menu-item2" role="link" aria-label="Ir para o perfil do GitHub de @Vapt-Vupt" tabIndex={5}>GitHub</a>
                         </div>
                     </div>
                     <div className="redes_sociais_rodape">
                         <a href="" className="redes_sociais" tabIndex={5}>
                             <RiInstagramFill size={18} />                              
                         </a>
-                        <a href="https://youtu.be/ZoeoYKEFKxc?si=5JMdihVcnd5PidSc" className="redes_sociais" tabIndex={5}>
+                        <a href="" className="redes_sociais" tabIndex={5}>
                             <FaYoutube size={18} />                                                         
                         </a>
-                        <a href="https://github.com/VaptVupt2024/Vapt-Vupt-Challenge" className="redes_sociais" tabIndex={5}>
+                        <a href="" className="redes_sociais" tabIndex={5}>
                             <FaGithub size={18} />                                                       
                         </a>
                     </div>
