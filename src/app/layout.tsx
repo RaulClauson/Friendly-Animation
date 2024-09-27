@@ -23,6 +23,9 @@ export default function RootLayout({
 
   return (
     <html lang="pt-br">
+      <head>
+        <title>Friendly</title>
+      </head>
       <body>
         {loading ? (
           <Loading /> // Show the loading animation while loading is true
